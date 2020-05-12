@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* I have *some* programming experience in __Delphi, Python__ and __MATLAB__.
+* I am also playing around with _mathematical modelling_ in Python.
